@@ -99,5 +99,6 @@ public class Lab {
      */
     public void updateAtPosition(List<Integer> list, int position, int value){
         list.set(position, value);
+        
     }
 }
